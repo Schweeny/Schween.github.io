@@ -1,6 +1,6 @@
-# shween Games
+# schweeny Games
 
 
-<br><link>https://shween.github.io/index.html</link>
+<br><link>https://schweeny.github.io/index.html</link>
 
 
